@@ -18,5 +18,5 @@ These are source files for the Envato Tuts+ course: [What's New in PHP 7 and 7.1
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/whats-new-in-php-7-and-71
+[published url]: https://code.tutsplus.com/courses/whats-new-in-php-7-and-7-1
 [instructor url]: https://tutsplus.com/authors/jeremy-mcpeak
